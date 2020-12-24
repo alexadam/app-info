@@ -1,0 +1,31 @@
+Privacy Policy
+
+This Privacy Policy describes how your personal information is handled in Take-a-Break 
+    (Referred to below as "The Application") for iOS and MacOS.
+
+Effective Date: August 17, 2020
+
+
+Information Collection, Use and Sharing:
+
+The Application does not collect, store or share any personal information.
+
+The Application stores only data relevant to its core functionality. 
+That data does not leave your device (phone, tablet or computer) unless you explicitly share it.
+
+When you open The Application you might be asked to allow Notifications.
+This is part of the core functionality and The Application uses notifications to inform you
+when a time interval or a time pattern has ended. The Application will never send you a notification that is not related to this functionality.
+ 
+
+Privacy Policy Changes
+
+We may change this Privacy Policy at any time, without notice. 
+It is your responsibility to review the Privacy Policy periodically. 
+By continuing to use The Application means that you accept and agree to the changes.
+ 
+
+Contact
+
+If you have any questions about the Privacy Policy please contact us at alexadam.dev@gmail.com
+    
